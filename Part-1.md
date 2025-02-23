@@ -26,6 +26,8 @@ Using VMWare Workstation 17 Pro, set up the following virtual machines:
 
 ![Capture14](https://github.com/user-attachments/assets/b43dbf25-163c-4559-9b87-f8abc20ba33f)
 
+![Capture](https://github.com/user-attachments/assets/0479cad7-5381-438d-8139-8515b5c33b60)
+
 ![Capture15](https://github.com/user-attachments/assets/ed1b9bde-2918-4fc7-afe1-74ad2959b377)
 
 ![credent](https://github.com/user-attachments/assets/bb7ed3a1-48b5-4c10-ba5a-568ff3835a2a)
