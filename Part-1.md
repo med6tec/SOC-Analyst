@@ -44,4 +44,4 @@ Using VMWare Workstation 17 Pro, set up the following virtual machines:
 
 ![credent](https://github.com/user-attachments/assets/8c9f5c02-75f5-4c44-afd8-85675d5cef14)
 
-
+## 2- Configure Active Directory & Join Windows 10 to Domain
